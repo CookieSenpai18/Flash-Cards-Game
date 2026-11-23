@@ -1,0 +1,575 @@
+﻿Build1=Default,com.bsit2i.flashcards
+File1=alarm.mp3
+File10=bgs (4).jpg
+File100=ls.bal
+File101=lss.bal
+File102=menu.bal
+File103=menuOff.png
+File104=menuOn.png
+File105=menus.bal
+File106=nbgm3.mp3
+File107=nbgm4.mp3
+File108=normOff.png
+File109=normOn.png
+File11=bgs (5).jpg
+File110=playOff.png
+File111=playOn.png
+File112=pop1.mp3
+File113=pop2.mp3
+File114=pop3.mp3
+File115=setOff.png
+File116=setOn.png
+File117=settings.bal
+File118=settingsBg.png
+File119=settingsOff.png
+File12=bgs.jpg
+File120=settingsOn.png
+File121=startOff.png
+File122=startOn.png
+File123=success.mp3
+File124=tick.mp3
+File125=timesUp.png
+File126=timesUp1.png
+File127=tropOff.png
+File128=tropOn.png
+File13=card_game.bal
+File14=card_gamebak.bal
+File15=cards (1).png
+File16=cards (10).png
+File17=cards (11).png
+File18=cards (12).png
+File19=cards (13).png
+File2=back.png
+File20=cards (14).png
+File21=cards (15).png
+File22=cards (16).png
+File23=cards (17).png
+File24=cards (18).png
+File25=cards (19).png
+File26=cards (2).png
+File27=cards (20).png
+File28=cards (21).png
+File29=cards (22).png
+File3=bg1.png
+File30=cards (23).png
+File31=cards (24).png
+File32=cards (25).png
+File33=cards (26).png
+File34=cards (27).png
+File35=cards (28).png
+File36=cards (29).png
+File37=cards (3).png
+File38=cards (30).png
+File39=cards (31).png
+File4=bg2.png
+File40=cards (32).png
+File41=cards (33).png
+File42=cards (34).png
+File43=cards (35).png
+File44=cards (36).png
+File45=cards (37).png
+File46=cards (38).png
+File47=cards (39).png
+File48=cards (4).png
+File49=cards (40).png
+File5=bgm3.mp3
+File50=cards (41).png
+File51=cards (42).png
+File52=cards (43).png
+File53=cards (44).png
+File54=cards (45).png
+File55=cards (46).png
+File56=cards (47).png
+File57=cards (48).png
+File58=cards (49).png
+File59=cards (5).png
+File6=bgm4.mp3
+File60=cards (50).png
+File61=cards (51).png
+File62=cards (52).png
+File63=cards (53).png
+File64=cards (54).png
+File65=cards (55).png
+File66=cards (56).png
+File67=cards (57).png
+File68=cards (58).png
+File69=cards (59).png
+File7=bgs (1).jpg
+File70=cards (6).png
+File71=cards (60).png
+File72=cards (61).png
+File73=cards (62).png
+File74=cards (63).png
+File75=cards (64).png
+File76=cards (65).png
+File77=cards (66).png
+File78=cards (7).png
+File79=cards (8).png
+File8=bgs (2).jpg
+File80=cards (9).png
+File81=credits.bal
+File82=creditsBg.png
+File83=creditsOff.png
+File84=creditsOn.png
+File85=credOff.png
+File86=credOn.png
+File87=dif.png
+File88=diff.bal
+File89=extOff.png
+File9=bgs (3).jpg
+File90=extOn.png
+File91=flip.mp3
+File92=flip2.mp3
+File93=goRes.png
+File94=gres.png
+File95=hardOff.png
+File96=hardOn.png
+File97=history.bal
+File98=Layout.bal
+File99=leaderboardBg.png
+FileGroup1=sounds
+FileGroup10=New Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=New Group
+FileGroup104=New Group
+FileGroup105=Default Group
+FileGroup106=sounds
+FileGroup107=sounds
+FileGroup108=New Group
+FileGroup109=New Group
+FileGroup11=New Group
+FileGroup110=New Group
+FileGroup111=New Group
+FileGroup112=sounds
+FileGroup113=sounds
+FileGroup114=sounds
+FileGroup115=New Group
+FileGroup116=New Group
+FileGroup117=Default Group
+FileGroup118=New Group
+FileGroup119=New Group
+FileGroup12=New Group
+FileGroup120=New Group
+FileGroup121=New Group
+FileGroup122=New Group
+FileGroup123=sounds
+FileGroup124=sounds
+FileGroup125=New Group
+FileGroup126=New Group
+FileGroup127=Default Group
+FileGroup128=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=cards
+FileGroup16=cards
+FileGroup17=cards
+FileGroup18=cards
+FileGroup19=cards
+FileGroup2=cards
+FileGroup20=cards
+FileGroup21=cards
+FileGroup22=cards
+FileGroup23=cards
+FileGroup24=cards
+FileGroup25=cards
+FileGroup26=cards
+FileGroup27=cards
+FileGroup28=cards
+FileGroup29=cards
+FileGroup3=New Group
+FileGroup30=cards
+FileGroup31=cards
+FileGroup32=cards
+FileGroup33=cards
+FileGroup34=cards
+FileGroup35=cards
+FileGroup36=cards
+FileGroup37=cards
+FileGroup38=cards
+FileGroup39=cards
+FileGroup4=Default Group
+FileGroup40=cards
+FileGroup41=cards
+FileGroup42=cards
+FileGroup43=cards
+FileGroup44=cards
+FileGroup45=cards
+FileGroup46=cards
+FileGroup47=cards
+FileGroup48=cards
+FileGroup49=cards
+FileGroup5=sounds
+FileGroup50=cards
+FileGroup51=cards
+FileGroup52=cards
+FileGroup53=cards
+FileGroup54=cards
+FileGroup55=cards
+FileGroup56=cards
+FileGroup57=cards
+FileGroup58=cards
+FileGroup59=cards
+FileGroup6=sounds
+FileGroup60=cards
+FileGroup61=cards
+FileGroup62=cards
+FileGroup63=cards
+FileGroup64=cards
+FileGroup65=cards
+FileGroup66=cards
+FileGroup67=cards
+FileGroup68=cards
+FileGroup69=cards
+FileGroup7=Default Group
+FileGroup70=cards
+FileGroup71=cards
+FileGroup72=cards
+FileGroup73=cards
+FileGroup74=cards
+FileGroup75=cards
+FileGroup76=cards
+FileGroup77=cards
+FileGroup78=cards
+FileGroup79=cards
+FileGroup8=New Group
+FileGroup80=cards
+FileGroup81=Default Group
+FileGroup82=New Group
+FileGroup83=New Group
+FileGroup84=New Group
+FileGroup85=New Group
+FileGroup86=New Group
+FileGroup87=New Group
+FileGroup88=Default Group
+FileGroup89=New Group
+FileGroup9=New Group
+FileGroup90=New Group
+FileGroup91=sounds
+FileGroup92=sounds
+FileGroup93=New Group
+FileGroup94=New Group
+FileGroup95=New Group
+FileGroup96=New Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=New Group
+Group=Default Group
+Library1=animation
+Library2=audio
+Library3=core
+Library4=javaobject
+Library5=phone
+Library6=reflection
+Library7=xui
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.~\n~
+Module1=credits
+Module2=difficulty
+Module3=game
+Module4=hard
+Module5=history
+Module6=loading
+Module7=medium
+Module8=settings
+Module9=Starter
+NumberOfFiles=128
+NumberOfLibraries=7
+NumberOfModules=9
+Version=13.1
+@EndOfDesignText@
+#Region  Activity Attributes 
+	#FullScreen: true
+	#IncludeTitle: false
+	#ApplicationLabel: Flash Cards
+	#SignKeyPassword: malakingtite
+	#VersionCode: 3
+	#VersionName: 1.0
+#End Region
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+Dim cl1 As MediaPlayer
+Dim cl2 As MediaPlayer
+
+Dim bg1 As MediaPlayer
+Dim bg2 As MediaPlayer
+Dim succ As MediaPlayer
+Dim tick As MediaPlayer
+Dim flip1 As MediaPlayer
+Dim flip2 As MediaPlayer
+Dim flip3 As MediaPlayer
+Dim alarm As MediaPlayer
+Dim vl1, vl2 As Float = 0.5
+Dim mods As String=""
+	Dim datlist As List
+	Dim usr As String ="Player1"
+Dim tim As String = ""
+Dim sc As Int = 0 
+Dim tutor As Boolean = False
+Dim ldl As String = "Please Wait..."
+Dim img As ContentChooser
+End Sub
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+
+	Private b1 As Button
+	Private b2 As Button
+	Private b3 As Button
+	Private b4 As Button
+	Private inp As Panel
+	Private conf As Button
+	Private usern As Label
+	Private prob As Button
+	Private username As EditText
+	Dim pic As Panel
+	Dim pics As ImageView
+	Private Label1 As Label
+End Sub
+#Region mains
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	Activity.LoadLayout("menu")
+	datlist.Initialize
+	conf.Color = Colors.ARGB(0, 0, 0, 0)
+	prob.Color = Colors.ARGB(0, 0, 0, 0)
+	
+	img.initialize("img")
+	pics.Bitmap = LoadBitmap(File.DirAssets,"cards (66).png")
+		If File.Exists(File.DirInternal, "volume.txt") Then
+		Dim savedData As String = File.ReadString(File.DirInternal, "volume.txt")
+		Dim parts() As String = Regex.Split(",", savedData)
+		Dim vol1 As Float = parts(0)
+		Dim vol2 As Float = parts(1)
+		vl1 = vol1
+		vl2 = vol2
+	End If
+	If FirstTime Then
+		If bg1.IsInitialized = False Then
+			bg1.Initialize()
+			bg1.Load(File.DirAssets, "nbgm4.mp3")
+			bg1.SetVolume(vl1, vl1)
+			bg1.Looping = True
+		End If
+		bg2.Initialize()
+		bg2.Load(File.DirAssets, "nbgm3.mp3")
+		bg1.SetVolume(vl1, vl1)
+		bg2.SetVolume(vl1, vl1)
+		bg2.Looping = True
+	
+		cl1.Initialize
+		cl1.Load(File.DirAssets, "pop1.mp3")
+		cl1.SetVolume(vl2,vl2)
+		cl2.Initialize
+		cl2.Load(File.DirAssets, "pop3.mp3")
+		cl2.SetVolume(vl2,vl2)
+
+		succ.Initialize
+		tick.Initialize
+		flip1.Initialize
+		flip2.Initialize
+		flip3.Initialize
+		alarm.Initialize
+		succ.Load(File.DirAssets,"success.mp3")
+		tick.Load(File.DirAssets,"tick.mp3")
+		flip1.Load(File.DirAssets,"flip.mp3")
+		flip2.Load(File.DirAssets,"flip2.mp3")
+		flip3.Load(File.DirAssets,"flip2.mp3")
+		alarm.Load(File.DirAssets,"alarm.mp3")
+		bg1.Looping = True
+		bg2.Looping = True
+		succ.SetVolume(vl2, vl2)
+		tick.SetVolume(vl2, vl2)
+		flip1.SetVolume(vl2, vl2)
+		flip2.SetVolume(vl2, vl2)
+		flip3.SetVolume(vl2, vl2)
+		alarm.SetVolume(vl2, vl2)
+'		If bg1.IsPlaying = False Then
+'			bg1.play
+'		End If
+	End If
+	
+	cl1.Initialize
+	cl2.Initialize
+	bg1.Initialize
+	bg2.Initialize
+	succ.Initialize
+	tick.Initialize
+	flip1.Initialize
+	flip2.Initialize
+	flip3.Initialize
+	alarm.Initialize
+	cl1.Load(File.DirAssets, "pop1.mp3")
+	cl2.Load(File.DirAssets,"pop3.mp3")
+	bg1.Load(File.DirAssets,"nbgm4.mp3")
+	bg2.Load(File.DirAssets,"nbgm3.mp3")
+	succ.Load(File.DirAssets,"success.mp3")
+	tick.Load(File.DirAssets,"tick.mp3")
+	flip1.Load(File.DirAssets,"flip.mp3")
+	flip2.Load(File.DirAssets,"flip2.mp3")
+	flip3.Load(File.DirAssets,"flip2.mp3")
+	alarm.Load(File.DirAssets,"alarm.mp3")
+	bg1.Looping = True
+	bg2.Looping = True
+
+	If File.Exists(File.DirInternal, "volume.txt") Then
+		Dim savedData As String = File.ReadString(File.DirInternal, "volume.txt")
+		Dim parts() As String = Regex.Split(",", savedData)
+		Dim vol1 As Float = parts(0)
+		Dim vol2 As Float = parts(1)
+		vl1 = vol1
+		vl2 = vol2
+	End If
+
+	If File.Exists(File.DirInternal, "history.txt") Then
+		datlist = File.ReadList(File.DirInternal, "history.txt")
+
+	End If
+
+	
+
+
+	If File.Exists(File.DirInternal, "tutorial.txt") Then
+		Dim s As String = File.ReadString(File.DirInternal, "tutorial.txt")
+		Dim isFinished As Boolean = (s.ToLowerCase = "true")
+		tutor = isFinished
+	else if s = "true" Then
+		tutor = True
+	Else If tutor = False Then
+	'	ShowTutorialHighlight
+		tutor = True
+	End If
+	File.WriteString(File.DirInternal, "tutorial.txt", "true")
+	If File.Exists(File.DirInternal, "username.txt") Then
+	Dim users As String = File.ReadString(File.DirInternal, "username.txt")
+	usern.Text = users
+	username.Text = users
+	usr = users
+End If
+	usern.Text = usr
+
+Label1.Text = "v1.0.2 Build-3"
+End Sub
+
+Sub Activity_Resume
+	If bg1.IsInitialized = False Then
+		bg1.Initialize()
+		bg1.Load(File.DirAssets, "nbgm4.mp3")
+		bg1.SetVolume(vl1, vl1)
+		bg1.Looping = True
+	End If
+
+	bg2.Initialize()
+	bg2.Load(File.DirAssets, "nbgm3.mp3")
+	bg1.SetVolume(vl1, vl1)
+	bg2.SetVolume(vl1, vl1)
+	bg2.Looping = True
+	
+	
+	cl1.Initialize
+	cl1.Load(File.DirAssets, "pop1.mp3")
+	cl1.SetVolume(vl2,vl2)
+	cl2.Initialize
+	cl2.Load(File.DirAssets, "pop3.mp3")
+	cl2.SetVolume(vl2,vl2)
+
+
+
+	succ.Initialize
+	tick.Initialize
+	flip1.Initialize
+	flip2.Initialize
+	flip3.Initialize
+	alarm.Initialize
+	succ.Load(File.DirAssets,"success.mp3")
+	tick.Load(File.DirAssets,"tick.mp3")
+	flip1.Load(File.DirAssets,"flip.mp3")
+	flip2.Load(File.DirAssets,"flip2.mp3")
+	flip3.Load(File.DirAssets,"flip2.mp3")
+	alarm.Load(File.DirAssets,"alarm.mp3")
+	succ.SetVolume(vl2, vl2)
+	tick.SetVolume(vl2, vl2)
+	flip1.SetVolume(vl2, vl2)
+	flip2.SetVolume(vl2, vl2)
+	flip3.SetVolume(vl2,vl2)
+	alarm.SetVolume(vl2, vl2)
+	If bg1.IsPlaying = False Then
+	bg1.play
+	End If
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	bg1.Pause
+End Sub
+
+
+Private Sub b4_Click
+	cl1.play
+	StartActivity(history)
+End Sub
+
+Private Sub b3_Click
+	cl1.play
+	StartActivity(credits)
+End Sub
+
+Private Sub b2_Click
+	cl1.play
+	StartActivity(settings)
+End Sub
+
+Private Sub b1_Click
+	cl1.play
+	StartActivity(difficulty)
+	Activity.Invalidate
+	Sleep(0)
+End Sub
+
+Private Sub conf_Click
+	cl1.play
+	inp.Visible = False
+	b1.Enabled=True
+	b2.Enabled=True
+	b3.Enabled=True
+	b4.Enabled=True
+	prob.Enabled=True
+	usern.text = username.Text
+	
+	If username.Text = "" Then
+		username.Text = "Player1"
+	End If
+	
+	File.WriteString(File.DirInternal, "username.txt", username.text)
+End Sub
+
+Private Sub prob_Click
+	cl2.play
+	inp.Visible = True
+	inp.BringToFront
+	inp.BringToFront
+	username.RequestFocus
+	b1.Enabled=False
+	b2.Enabled=False
+	b3.Enabled=False
+	b4.Enabled=False
+	prob.Enabled=False
+	username.Text = usern.text
+End Sub
+
+
+
+Private Sub pics_Click
+img.show("image/*","Choose Image")
+End Sub
+
+Sub img_Result(succs As Boolean, dirs As String, fn As String)
+	If succs Then
+		pics.Bitmap = LoadBitmap(dirs, fn)
+		Else
+			ToastMessageShow("Please Select an Image", True)
+	End If
+End Sub
+
+#End Region
